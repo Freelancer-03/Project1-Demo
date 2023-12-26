@@ -1,4 +1,4 @@
 # Project1-Demo
 <br>
-Author- Isshwar Singh 
+Author- Ishwar Singh 
 <br>
